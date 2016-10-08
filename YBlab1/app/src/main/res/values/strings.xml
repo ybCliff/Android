@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YBlab1</string>
+    <string name="header">中山大学课外体育积分电子认证系统</string>
+    <string name="label1">用户名:</string>
+    <string name="label2">密码:</string>
+    <string name="hint1">请输入用户名</string>
+    <string name="hint2">请输入密码</string>>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+
+</resources>

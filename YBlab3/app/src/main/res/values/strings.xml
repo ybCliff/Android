@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">YBlab3</string>
+
+    <string name="phoneAaron">17715523654</string>
+    <string name="phoneElvis">18825653224</string>
+    <string name="phoneDavid">15052116654</string>
+    <string name="phoneEdwin">18854211875</string>
+    <string name="phoneFrank">13955188541</string>
+    <string name="phoneJoshua">13621574410</string>
+    <string name="phoneIvan">15684122771</string>
+    <string name="phoneMark">17765213579</string>
+    <string name="phoneJoseph">13315466578</string>
+    <string name="phonePhoebe">17895466428</string>
+
+    <string name="addressAaron">江苏苏州电信</string>
+    <string name="addressElvis">广东揭阳移动</string>
+    <string name="addressDavid">江苏无锡移动</string>
+    <string name="addressEdwin">山东青岛移动</string>
+    <string name="addressFrank">安徽合肥移动</string>
+    <string name="addressJoshua">江苏苏州移动</string>
+    <string name="addressIvan">山东烟台联通</string>
+    <string name="addressMark">广东珠海电信</string>
+    <string name="addressJoseph">河北石家庄电信</string>
+    <string name="addressPhoebe">山东东营移动</string>
+</resources>
